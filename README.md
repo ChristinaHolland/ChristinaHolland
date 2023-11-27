@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChristinaHolland
 - 👀 I’m interested in math, science, and data science.
-- 🌱 I’m currently learning as much as I can about data science. Just completed the General Assembly Data Science Immersive course, and now I want to go learn more about YOLO, Computer Vision, and RoboFlow, and also noise/signal processing.
+- 🌱 I have a wide array of experience: scientific research, education, and business data analysis. Currently working in fraud strategy analytics. I love to use data to find solutions to problems in a variety of situations.
 - 💞️ I’m looking to collaborate on ways to use data science to improve the world!
-- 📫 How to reach me: cld@cholland.me, https://www.linkedin.com/in/christina-holland-7400a1140/, https://christinaholland.github.io
+- 📫 How to reach me: clh@cholland.me, https://www.linkedin.com/in/christina-holland-7400a1140/, https://christinaholland.github.io
 
 <!---
 ChristinaHolland/ChristinaHolland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
